@@ -21,4 +21,8 @@ vue3 study 기초
  * Live Server (HTML 파일 수정 시 새로고침 없이 바로바로 즉각 적용되도록 도와준다.)
  * ESLint (코드 검사기로써 에러가 있는지 검사해주는 도구)
  * Prettier 사용안함 (코드 포멧터로써 코드를 일관성있고 예쁘게 작성할 수 있도록 도와주는 도구)
+ * Vue VSCode Snippets (코드를 빠르게 생성해주는 플러그인)
+
+ #### VSCode Plugins 설치2
+ * Vue2에서는 Vetur를 설치 했다면 Vue3에서는 Volar를 설치한다. 만약에 Vetur가 설치 되어있다면 충돌날 수도 있으니 Vetur는 비활성화 해준다.
  
