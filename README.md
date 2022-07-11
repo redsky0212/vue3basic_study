@@ -26,3 +26,6 @@ vue3 study 기초
  #### VSCode Plugins 설치2
  * Vue2에서는 Vetur를 설치 했다면 Vue3에서는 Volar를 설치한다. 만약에 Vetur가 설치 되어있다면 충돌날 수도 있으니 Vetur는 비활성화 해준다.
  
+ ---------------------
+ ## 2 Vue란?
+ (User Interface개발을 위한 javascript 프레임워크)
