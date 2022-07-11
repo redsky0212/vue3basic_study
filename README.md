@@ -7,3 +7,5 @@ vue3 study 기초
  * 크롬브라우저 설치
  * VSCode설치
  * VSCode Plugins 설치
+ * 크롬브라우저에 Vue.js devtools설치
+ 
